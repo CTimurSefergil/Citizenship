@@ -1,0 +1,4 @@
+service : {
+    "add_citizen" : (tc : nat64, name : text, surname : text, age : nat64) -> ();
+    "get_citizens" : (id : nat64) -> (text) query;
+};

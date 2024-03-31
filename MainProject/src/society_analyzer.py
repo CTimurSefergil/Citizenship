@@ -1,9 +1,3 @@
-'''
-Vatandaş verilerinin json uzantılı dosyadan okunup yapay zekaya aktarılmasını,
-analiz edilmesini ve ardından analizlerin hem gelecekte kullanılması için hem de verilerin güvenliği için
-bir başka json uzantılı dosyaya kayıt edildiği kodlar
-'''
-
 from openai import OpenAI
 import json
 

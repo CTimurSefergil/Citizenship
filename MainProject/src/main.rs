@@ -1,6 +1,3 @@
-// Vatandaş verilerinin girilmesini ve bu verilerin
-// json uzantılı bir dosyaya düzenli bir şekilde kayıt edilmesini sağlayan kodlar.
-
 use std::fs::File;
 use std::io::{BufWriter, Write};
 mod lib;
@@ -35,35 +32,35 @@ fn main() {
             String::from("Timur"),
             String::from("Sefergil"),
             421332,
-            String::from("Staja kabul almak için heyecanla çalışıyor"),
+            String::from("Waiting with excitement for his new job"),
         );
         add_citizen(
             124341324,
             String::from("Umay"),
             String::from("Sefergil"),
             421332,
-            String::from("Balkan gezisine gidiyor"),
+            String::from("Going to a trip to the Balkans"),
         );
         add_citizen(
             241244512,
             String::from("Yavuz"),
             String::from("Sefergil"),
             421332,
-            String::from("Takılıyor öyle böyle"),
+            String::from("Beating game bosses"),
         );
         add_citizen(
             54363452,
             String::from("Utku"),
             String::from("Akalın"),
             421332,
-            String::from("Şaka yaparak oyun oynuyor"),
+            String::from("Playing games while joking"),
         );
         add_citizen(
             5234124,
             String::from("Hamza"),
             String::from("Erdoğan"),
             421332,
-            String::from("Minecraft oynayıp zorbalanıyor"),
+            String::from("Playing minecraft while bulying"),
         );
         write_citizen_data(&CITIZENS).unwrap();
     }

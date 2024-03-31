@@ -1,6 +1,3 @@
-// Verileri akıllı kontrat içerisinde kaydedemediğim için buradaki kodlar sadece gelecekte kullanılmak için temel teşkil ediyor.
-// Asıl yaptığım proje şu anlık main.rs ve society_analyzer.py içerisinde bulunuyor.
-
 use candid::{CandidType, Deserialize};
 use serde::Serialize;
 

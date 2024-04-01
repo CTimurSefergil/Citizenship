@@ -1,10 +1,13 @@
-# Asıl Staj Final Projesi
+# E-Citizenship, Society Analyzer and Ai Data Tracker
 
-## Projenin amaçları
-- Vatandaş verilerinin blokzinciri üzerinde depolanmasını ve işlemlerinin blokzinciri üzerinden yapılmasını sağlayarak hem verilerin hem de işlemlerin güvenilir bir ortamda kayıt altına alınmasını sağlamak.
-- Bu depolanan verilerin yapay zeka sayesinde işlenmesini ve detaylı bir toplum analizi yapılmasını sağlamak. Bir nevi yapay zekayı bütün vatandaşların bilgisine sahip akıllı bir sosyoloğa çevirmek.
-- Yapay zekanın cevaplarını blokzinciri üzerinde kayıt altına almak ve bu cevapların tekrar tekrar kullanılıp yapay zekanın güçlendirilmesini sağlamak.
-- !!! GELECEKTE İŞE YARAYABİLİR !!!
-1. Yapay zekanın cevaplarının ve kullandığı verilerin blokzinciri üzerinde kayıt altına alınmasının çok kritik bir faydası var: Gelecekte yapay zekanın insanlığa karşı bir tehdit olup olmadığı anlaşılabilir çünkü bütün yaptığı işlemler blokzinciri üzerinde değiştirilemez bir biçimde saklanıyor olacak ve yapay zekanın bütün davranışları güvenilir bir ortamda inceleniyor olacak.
-2. Yapay zekanın kullandığı veriler blokzincirinde kayıtlı olacağı için gelecekte yapay zeka alanında olabilecek hukuksal değişikler sonucunda kullanılan veriler için para ödenmesi gerekirse bu verilerin kontrolü için elimizde hazır altyapı olacak.
-  
+## What is this project is intendet for
+### First part(Citizenship)
+- Storing data of citizens in a safe database(Blockchain)
+- Leting citizens make safe operations via Blockchain
+
+### Sekond part(Society Analyzer)
+- Geting data of the citizens and feeding ai with them
+- With this ai making predictions about the future of the society and analyze the society
+
+### Third part(Ai Data Tracker)
+- Saving both the data that ai uses and the data that the ai responds on Blockchain. Its crucial because in the near future there may be changes in law and ai may need to pay for the data that it uses. In this case this Ai Data Tracker will be so important because we record the data that ai uses.

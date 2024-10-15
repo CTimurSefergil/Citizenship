@@ -5,7 +5,7 @@
 - Storing data of citizens in a safe database(Blockchain)
 - Leting citizens make safe operations via Blockchain
 
-### Sekond part(Society Analyzer)
+### Second part(Society Analyzer)
 - Geting data of the citizens and feeding ai with them
 - With this ai making predictions about the future of the society and analyze the society
 
